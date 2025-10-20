@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://images.icon-icons.com/2530/PNG/512/react_button_icon_151947.png" width="40" alt="React">
 </p>
 
 ---
